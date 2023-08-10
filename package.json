@@ -1,5 +1,5 @@
 {
-  "name": "jsonresume-theme-eloquent-mod",
+  "name": "jsonresume-theme-eloquent-fr",
   "version": "4.14.0",
   "description": "A mod of the eloquent JSON Resume theme: fluent, persuasive, for developers",
   "author": "Teagan Glenn",
@@ -58,10 +58,10 @@
     "jshint": "^2.5.6",
     "mocha": "^3.0.0",
     "nodemon": "^1.18.7",
-    "pleeease-cli": "^4.0.0",
-    "resume-schema": "0.0.16",
+    "pleeease-cli": "^4.1.0",
+    "resume-schema": "1.0.0",
     "uglify-js": "^2.5.0",
-    "webfont-dl": "^0.1.1"
+    "webfont-dl": "^0.2.0"
   },
   "scripts": {
     "build:css": "pleeease-compile",
